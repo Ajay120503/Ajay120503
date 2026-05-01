@@ -16,17 +16,33 @@
 
 ## 🧑‍💻 About Me
 
-```ts
-const Ajay = {
-  role        : "Full-Stack MERN Developer",
-  location    : "India 🇮🇳",
-  languages   : ["JavaScript", "TypeScript", "Python"],
-  stack       : ["MongoDB", "Express.js", "React.js", "Node.js"],
-  interests   : ["EdTech Platforms", "Security Tools", "Dev Utilities"],
-  building    : ["Kaksha — LMS Platform", "Snippet Store", "Portfolio Pro"],
-  funFact     : "I write security tools AND beautiful UIs. Balance is everything. ⚖️"
-};
+<div align="center">
+
 ```
+┌─────────────────────────────────────────────────────────────────────┐
+│  ajay@dev  ~  profile.sh                                   ● ● ●   │
+├──────────────────────┬──────────────────────────────────────────────┤
+│                      │                                              │
+│         A            │   name       →  Ajay                        │
+│                      │   location   →  India 🇮🇳                   │
+│    Full-Stack        │   role       →  MERN Stack Developer        │
+│    Developer         │                                              │
+│                      │   stack      →  MongoDB · Express.js        │
+│   ✦ Open to Work     │                  React.js · Node.js         │
+│                      │                                              │
+│                      │   building   →  Kaksha LMS                  │
+│                      │                  Snippet Store              │
+│                      │                  RTSPScan & rtspBrute       │
+│                      │                                              │
+│                      │   interests  →  EdTech · Security Tools     │
+│                      │                  Dev Utilities              │
+│                      │                                              │
+│                      │   fun fact   →  I build security tools      │
+│                      │                  AND beautiful UIs. ⚖️      │
+└──────────────────────┴──────────────────────────────────────────────┘
+```
+
+</div>
 
 ---
 
@@ -80,26 +96,39 @@ const Ajay = {
 
 ---
 
-## 💼 MERN Stack — My Core Architecture
+## ⚡ MERN Stack — My Core Architecture
 
 <div align="center">
 
-```
-╔══════════════════════════════════════════════════════════════════╗
-║                  ⚡  MY MERN FLOW  ⚡                           ║
-╠══════════════════════════════════════════════════════════════════╣
-║                                                                  ║
-║   🌿 MongoDB  ──►  🚂 Express.js  ──►  ⚛️ React.js  ──►  🟢 Node.js  ║
-║                                                                  ║
-║   MongoDB    │  NoSQL DB · Flexible Schemas · Atlas Cloud       ║
-║   Express    │  REST APIs · Middleware · Route Handling         ║
-║   React      │  Component UI · Hooks · State Management        ║
-║   Node.js    │  Server Runtime · Async I/O · npm Ecosystem      ║
-║                                                                  ║
-╚══════════════════════════════════════════════════════════════════╝
-```
+| 🌿 MongoDB | &nbsp;→&nbsp; | 🚂 Express.js | &nbsp;→&nbsp; | ⚛️ React.js | &nbsp;→&nbsp; | 🟢 Node.js |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| **NoSQL Database** | | **REST API Layer** | | **UI & Frontend** | | **Server Runtime** |
+| Flexible schemas · Atlas cloud · Mongoose ODM | | Middleware · Routing · MVC pattern | | Hooks · Redux · Component UI | | Async I/O · Event loop · npm |
 
 </div>
+
+```
+                         Browser / Client
+                               │
+                               ▼
+                    ┌─────────────────────┐
+                    │      React.js       │  ← Components · Hooks · Redux
+                    └──────────┬──────────┘
+                               │  HTTP Requests / REST API
+                               ▼
+                    ┌─────────────────────┐
+                    │     Express.js      │  ← Routes · Middleware · Auth (JWT)
+                    └──────────┬──────────┘
+                               │
+                    ┌──────────▼──────────┐
+                    │      Node.js        │  ← Runtime · Async I/O · npm
+                    └──────────┬──────────┘
+                               │  Mongoose ODM
+                               ▼
+                    ┌─────────────────────┐
+                    │      MongoDB        │  ← Collections · Schemas · Atlas
+                    └─────────────────────┘
+```
 
 ---
 
