@@ -14,7 +14,7 @@
 
 ---
 <div align="center">
-  <img src="./about-card.svg" width="700" alt="About Ajay"/>
+  <img src="[./about-card.svg](https://claude.ai/public/artifacts/f6064632-36b0-45ba-8823-c8572d305371)" width="700" alt="About Ajay"/>
 </div>
 ---
 
