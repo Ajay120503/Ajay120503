@@ -106,7 +106,7 @@
 
 ## 🚀 Featured Projects
 
-<div align="center">
+<div align="start">
 
 ---
 
