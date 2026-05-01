@@ -13,37 +13,9 @@
 </div>
 
 ---
-
-## 🧑‍💻 About Me
-
 <div align="center">
-
-```
-┌─────────────────────────────────────────────────────────────────────┐
-│  ajay@dev  ~  profile.sh                                   ● ● ●   │
-├──────────────────────┬──────────────────────────────────────────────┤
-│                      │                                              │
-│         A            │   name       →  Ajay                        │
-│                      │   location   →  India 🇮🇳                   │
-│    Full-Stack        │   role       →  MERN Stack Developer        │
-│    Developer         │                                              │
-│                      │   stack      →  MongoDB · Express.js        │
-│   ✦ Open to Work     │                  React.js · Node.js         │
-│                      │                                              │
-│                      │   building   →  Kaksha LMS                  │
-│                      │                  Snippet Store              │
-│                      │                  RTSPScan & rtspBrute       │
-│                      │                                              │
-│                      │   interests  →  EdTech · Security Tools     │
-│                      │                  Dev Utilities              │
-│                      │                                              │
-│                      │   fun fact   →  I build security tools      │
-│                      │                  AND beautiful UIs. ⚖️      │
-└──────────────────────┴──────────────────────────────────────────────┘
-```
-
+  <img src="./about-card.svg" width="700" alt="About Ajay"/>
 </div>
-
 ---
 
 ## 🛠️ Tech Stack
