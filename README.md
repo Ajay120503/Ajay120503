@@ -11,11 +11,22 @@
 [![GitHub stars](https://img.shields.io/github/stars/Ajay120503?affiliations=OWNER&style=for-the-badge&color=7B61FF&labelColor=0d1117&label=Stars)](https://github.com/Ajay120503)
 
 </div>
-
 ---
-<div align="center">
-  <img src="[./about-card.svg](https://claude.ai/public/artifacts/f6064632-36b0-45ba-8823-c8572d305371)" width="700" alt="About Ajay"/>
-</div>
+
+## 🧑‍💻 About Me
+
+```ts
+const Ajay = {
+  role        : "Full-Stack MERN Developer",
+  location    : "India 🇮🇳",
+  languages   : ["JavaScript", "TypeScript", "Python"],
+  stack       : ["MongoDB", "Express.js", "React.js", "Node.js"],
+  interests   : ["EdTech Platforms", "Security Tools", "Dev Utilities"],
+  building    : ["Kaksha — LMS Platform", "Snippet Store", "Portfolio Pro"],
+  funFact     : "I write security tools AND beautiful UIs. Balance is everything. ⚖️"
+};
+```
+
 ---
 
 ## 🛠️ Tech Stack
