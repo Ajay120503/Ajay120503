@@ -7,8 +7,8 @@
 <br/>
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Ajay120503&color=7B61FF&style=for-the-badge&label=PROFILE+VIEWS)
-[![GitHub followers](https://img.shields.io/github/followers/Ajay120503?label=Followers&style=for-the-badge&color=7B61FF&labelColor=0d1117)](https://github.com/Ajay120503)
-[![GitHub stars](https://img.shields.io/github/stars/Ajay120503?affiliations=OWNER&style=for-the-badge&color=7B61FF&labelColor=0d1117&label=Stars)](https://github.com/Ajay120503)
+[![GitHub followers](https://img.shields.io/github/followers/Ajay120503?label=Followers&style=for-the-badge&color=7B61FF)](https://github.com/Ajay120503)
+[![GitHub stars](https://img.shields.io/github/stars/Ajay120503?affiliations=OWNER&style=for-the-badge&color=7B61FF&label=Stars)](https://github.com/Ajay120503)
 
 </div>
 
