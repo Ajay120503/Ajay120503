@@ -11,7 +11,6 @@
 [![GitHub stars](https://img.shields.io/github/stars/Ajay120503?affiliations=OWNER&style=for-the-badge&color=7B61FF&labelColor=0d1117&label=Stars)](https://github.com/Ajay120503)
 
 </div>
----
 
 ## 🧑‍💻 About Me
 
