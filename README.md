@@ -188,8 +188,10 @@ const Ajay = {
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ajay120503&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&bg_color=0d1117&title_color=7B61FF&icon_color=7B61FF" height="175"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ajay120503&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7B61FF&langs_count=8" height="175"/>
+  <img height="175"
+       src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Ajay120503&theme=github_dark" />
+  <img height="175"
+       src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Ajay120503&theme=github_dark" />
 </div>
 
 <div align="center">
