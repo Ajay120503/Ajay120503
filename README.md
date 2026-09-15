@@ -198,18 +198,6 @@ const Ajay = {
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ajay120503&theme=tokyonight&hide_border=true&background=0d1117&ring=7B61FF&fire=FF6C37&currStreakLabel=7B61FF" width="68%"/>
 </div>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ajay120503&theme=tokyo-night&hide_border=true&area=true&bg_color=0d1117&color=7B61FF&line=7B61FF&point=FF6C37" width="92%"/>
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ajay120503&theme=tokyonight&no-frame=true&column=7&margin-w=8&no-bg=true" width="90%"/>
-</div>
-
 ---
 
 ## 📈 Skills Proficiency
